@@ -48,7 +48,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
-                    Text("扫福小助手",
+                    Text("福卡",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 32.0,
@@ -78,7 +78,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
-                    Text("高级福",
+                    Text("沾沾福",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 32.0,
